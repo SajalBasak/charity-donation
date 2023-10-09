@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "824283032556",
+    "project_id": "smiley-d3dfa",
+    "storage_bucket": "smiley-d3dfa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824283032556:android:92948c723f88a5e9fb2ec9",
+        "android_client_info": {
+          "package_name": "com.example.charity_donation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824283032556-3oerdnikg4gac7pgu807hiqkmhfau8pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5yEvdsQFlCFw3vnFQYRXNwz3lAlT6-TY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824283032556-3oerdnikg4gac7pgu807hiqkmhfau8pr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
